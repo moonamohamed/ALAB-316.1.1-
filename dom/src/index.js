@@ -1,3 +1,10 @@
+/*
+Muna Mohamed
+Shorman Fennell
+Samuel Laoye
+Mohamed Ait oufquir
+Zavier Paulino
+*/
 // step 1 of Part 3 
 var menuLinks = [
   { text: 'about', href: '/about' },
